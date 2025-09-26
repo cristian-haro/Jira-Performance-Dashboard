@@ -11,23 +11,23 @@ Project to create a control panel for equipment status and Jira tasks.
 
 ## 2 - Tareas por hacer
 
-![Tareas por hacer](src/2.PNG)
+![Tareas por hacer](https://github.com/cristian-haro/Jira-Performance-Dashboard/blob/main/src/2.png)
 
 ## 3 - Tareas bloqueadas
 
-![Tareas bloqueadas](src/3.PNG)
+![Tareas bloqueadas](https://github.com/cristian-haro/Jira-Performance-Dashboard/blob/main/src/3.png)
 
 ## 4 - Tareas en curso
 
-![Tareas en curso](src/4.PNG)
+![Tareas en curso](https://github.com/cristian-haro/Jira-Performance-Dashboard/blob/main/src/4.png)
 
 ## 5 - Tareas en revisión
 
-![Tareas en revisión](src/5.PNG)
+![Tareas en revisión](https://github.com/cristian-haro/Jira-Performance-Dashboard/blob/main/src/5.png)
 
 ## 6 - Tareas finalizadas
 
-![Tareas finalizadas](src/6.PNG)
+![Tareas finalizadas](https://github.com/cristian-haro/Jira-Performance-Dashboard/blob/main/src/6.png)
 
 
 ## Status:
