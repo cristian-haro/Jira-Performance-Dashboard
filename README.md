@@ -7,7 +7,7 @@ Project to create a control panel for equipment status and Jira tasks.
 
 ## 1 - Listado de tareas
 
-![Listado de tareas](src/1.PNG)
+![Listado de tareas]([src/1.PNG](https://github.com/cristian-haro/Jira-Performance-Dashboard/blob/main/src/1.png?raw=true))
 
 ## 2 - Tareas por hacer
 
